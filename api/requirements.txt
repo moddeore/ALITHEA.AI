@@ -1,0 +1,10 @@
+fastapi
+tensorflow-cpu
+numpy
+pillow
+pydantic
+joblib
+python-multipart
+scikit-learn
+lightgbm
+huggingface_hub
