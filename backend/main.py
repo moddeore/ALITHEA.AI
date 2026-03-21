@@ -64,7 +64,7 @@ class TextRequest(BaseModel):
     text: str
     model: str = "unigram"
 
-@app.post("/detect-image")
+@app.post("/api/detect-image")
 async def predict_image(file: UploadFile = File(...)):
     if not model:
         return {"error": "Model not loaded"}
@@ -105,7 +105,7 @@ async def predict_image(file: UploadFile = File(...)):
     except Exception as e:
         return {"error": str(e)}
 
-@app.post("/detect-text")
+@app.post("/api/detect-text")
 async def predict_text(request: TextRequest):
     text = request.text
     model_type = request.model
