@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+tensorflow
+scikit-learn==1.4.1.post1
+joblib
+lightgbm
+pydantic
+huggingface_hub
