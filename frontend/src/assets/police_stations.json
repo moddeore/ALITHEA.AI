@@ -1,0 +1,224 @@
+[
+  {
+    "division": "Chaturshringi Division",
+    "name": "Wakad Police Station",
+    "address": "Rajiv Gandhi Infotech Park Phase 1 Hinjewadi Dist Mulshi Pune 411057",
+    "contact": "020-22934100/22934110"
+  },
+  {
+    "division": "Chaturshringi Division",
+    "name": "Sangavi Police Station",
+    "address": "Sangavi Police Station, Sai chouk navi Sangavi. Pimpari chinchavad corporation.",
+    "contact": "020-27286162"
+  },
+  {
+    "division": "Chaturshringi Division",
+    "name": "Hinjewadi Police Station",
+    "address": "Rajiv Gandhi Infotech Park, Hinjewadi, Tal-Mulshi Pune.",
+    "contact": "020-22934622 / 22932119"
+  },
+  {
+    "division": "Chaturshringi Division",
+    "name": "Chaturshringi Police Station",
+    "address": "Chaturshringi Police Station, Ganesh Khind Road,In Front Of Rajbhavan,Pune-7.",
+    "contact": "020-25655335 / 26208421"
+  },
+  {
+    "division": "Pimpri Division",
+    "name": "Pimpri Police Station",
+    "address": "In Front of Pune Chinchwad Teliphone Exchange,Pune-Mumbai Road,Chinchwad,Pune-411019.",
+    "contact": "020-27472218"
+  },
+  {
+    "division": "Pimpri Division",
+    "name": "Chinchwad Police Station",
+    "address": "Chafekar Chowk, In front Of Dr.kamat Hospital Near Chinchavad Bhaji Mandai,Pune-33",
+    "contact": "020-27356767 / 68"
+  },
+  {
+    "division": "Pimpri Division",
+    "name": "Nigadi Police Station",
+    "address": "Sec. No-24, Near Dada Dadi Garden, Nigadi Pradhikaran, Pune.",
+    "contact": "020-27655088 / 27640467 / 27642202"
+  },
+  {
+    "division": "Pimpri Division",
+    "name": "Bhosari Police Station",
+    "address": "Near C.I.R.T.Nashik Rod Bhosari Pune.",
+    "contact": "020-27124728 / 27110834"
+  },
+  {
+    "division": "Pimpri Division",
+    "name": "MIDC Bhosari Police Station",
+    "address": "Culter Crest, Sector No. - 6, M-4 Spine City Road, Moshi Pradhikaran, Pune 412105",
+    "contact": "020-20274444"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Yerawada Police Station",
+    "address": "Shashrinagar Chowk,Yerawada,Pune.",
+    "contact": "020-26684456 / 26208288"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Vimantal Police Station",
+    "address": "Satyam Aarked Building,Ramwadi,Pune.",
+    "contact": "020-26633888"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Vishrantwadi Police Station",
+    "address": "Vishrantwadi Police Station, Survey No-90, Pune Alandi Road, Mental Corner, Yerawada , Pune.",
+    "contact": "020-26692590 / 26208272"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Khadaki Police Station",
+    "address": "Khadaki Police Station, Khadaki, Pune",
+    "contact": "020-25818659 / 26208423"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Dighi Police Station",
+    "address": "Near by Ragav Mangal karyalay Gaikwad nagar Dighi Pune",
+    "contact": "020-20280035"
+  },
+  {
+    "division": "Khadaki Division",
+    "name": "Chandan Nagar Police Station",
+    "address": "S NO 37 Chandan Nagar Police Station Behind Sundarabai Marathe School Old Mundhwa Road Pune 411014",
+    "contact": "020-27012321"
+  },
+  {
+    "division": "Wanavdi Division",
+    "name": "Mundhawa Police Station",
+    "address": "Mundhawa Police Station, Pune-36.",
+    "contact": "020-26890153"
+  },
+  {
+    "division": "Wanavdi Division",
+    "name": "Hadapsar Police Station",
+    "address": "Survey No.-9,Gadital,Hadapsar,Pune.",
+    "contact": "020-26996577"
+  },
+  {
+    "division": "Wanavdi Division",
+    "name": "Kondhwa Police Station",
+    "address": "Survey no.38/5 Kondhva Khurd, Pune.",
+    "contact": "020-26930780"
+  },
+  {
+    "division": "Wanavdi Division",
+    "name": "Wanawadi Police Station",
+    "address": "Hadapsar Industrial Area,Near Kirloskar Pneumatic Company,Hadapsar,Pune-13.",
+    "contact": "020-26824981 / 26875734"
+  },
+  {
+    "division": "City Division",
+    "name": "Faraskhana Police Station",
+    "address": "Faraskhana Police Station, 146 Bhudhwar Peth, Near Dagadusheth Ganpati temple, Pune.",
+    "contact": "020-24452250/ 26208438"
+  },
+  {
+    "division": "City Division",
+    "name": "Khadak Police Station",
+    "address": "Khadak Police Station, Shukrawar Peth, Near Mamaledar Kacheri, Pune-411042.",
+    "contact": "020-24476422 / 24452095"
+  },
+  {
+    "division": "Vishrambaug Division",
+    "name": "Vishrambaug Police Station",
+    "address": "Vishrambaug Police Station, Near Dagduseth Halvai Ganpati Temple,Pune.",
+    "contact": "020-24457750 / 26208439"
+  },
+  {
+    "division": "Vishrambaug Division",
+    "name": "Shivajinagar Police Station",
+    "address": "Near Police Ground F.C. Road Get. Shivajinagar Pune-411005.",
+    "contact": "020-25536263 / 25512347"
+  },
+  {
+    "division": "Deccan Division",
+    "name": "Deccan Police Station",
+    "address": "759/5,Prabhat Road,Deccan Jimkhana,Pune- 411004.",
+    "contact": "020-25675005 / 25675006 / 26208424"
+  },
+  {
+    "division": "Deccan Division",
+    "name": "Kothrud Police Station",
+    "address": "Near Wanaj Company, Paud Road, Kothrud Pune.",
+    "contact": "020-25391515/ 25391010"
+  },
+  {
+    "division": "Deccan Division",
+    "name": "Warje Malwadi Police Station",
+    "address": "Near Mumbai-Banglore Highway,Warje Malwadi,Pune.",
+    "contact": "020-25237777 / 25237779"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Bharati Vidyapeeth P Stn",
+    "address": "In Front of Bharati Vidhyapeeth, Pune.",
+    "contact": "020-24365100 / 24360101"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Sahakar Nagar Police Station",
+    "address": "Sarve No.-2833,Parvati,Near Padmavati Temple,Pune",
+    "contact": "020-24228113 / 26208320"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Market Yard Police Station",
+    "address": "Market yard Residency Building, Near Flower Market, Market yard, Pune-37.",
+    "contact": "020-24275137/ 26208355"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Sinhagad Police Station",
+    "address": "Sinhagad Police Station, Pune",
+    "contact": "020-24348270"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Bibwewadi Police Station",
+    "address": "SR. No. 670, Swami Vivekanand Road Bibwewadi,Pune-411037.",
+    "contact": "020-24282003"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Dattawadi Police Station",
+    "address": "Dattawadi Police Station, Pune",
+    "contact": "020-24220205 / 26208313"
+  },
+  {
+    "division": "Swargate Division",
+    "name": "Swargate Police Station",
+    "address": "In Front of Swargate S. T Stand,Pune- 411042.",
+    "contact": "020-24452769 / 26208319"
+  },
+  {
+    "division": "Lashkar Division",
+    "name": "Bund Garden Police Station",
+    "address": "Bundgarden Police Station, Pune-411001.",
+    "contact": "020-26123825"
+  },
+  {
+    "division": "Lashkar Division",
+    "name": "Koregaon Park Police Station",
+    "address": "Koregaonpark Police Station, Lane No. 4- A, Pune-411001.",
+    "contact": "02026152222 / 26208374"
+  },
+  {
+    "division": "Lashkar Division",
+    "name": "Lashkar Police Station",
+    "address": "Bangala No.-9,Dr.Koyaji Road,Camp,Pune.",
+    "contact": "020- 26208228/ 26333549"
+  },
+  {
+    "division": "Lashkar Division",
+    "name": "Samarth (Somwar Peth) Police Stn",
+    "address": "423,Somwar Peth,Pune-11.",
+    "contact": "020-26135491 / 26208224 / 26208393"
+  }
+]
