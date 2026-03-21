@@ -3,7 +3,7 @@ uvicorn[standard]
 python-multipart
 pillow
 numpy
-tensorflow
+tensorflow-cpu
 scikit-learn==1.4.1.post1
 joblib
 lightgbm
