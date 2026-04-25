@@ -67,27 +67,6 @@ function About() {
                 description: 'Specializes in computer vision and deep learning model optimization.',
                 image: modImage,
                 linkedin: 'https://www.linkedin.com/in/mod-deore-836504345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-              },
-              {
-                name: 'Anand Patekhede',
-                role: 'Frontend Developer',
-                description: 'Creates intuitive and responsive user interfaces using React and Vite.',
-                image: anandImage,
-                linkedin: 'https://www.linkedin.com/in/anand-patekhede-02b182337/'
-              },
-              {
-                name: 'Rushikesh Shinde',
-                role: 'Backend Developer',
-                description: 'Architects robust APIs and manages server infrastructure.',
-                image: rushiimage,
-                linkedin: 'https://www.linkedin.com/in/rushikeshshinde4241?utm_source=share_via&utm_content=profile&utm_medium=member_android'
-              },
-              {
-                name: 'Tejas Mahamuni',
-                role: 'Data Scientist',
-                description: 'Curates and processes datasets for training highly accurate models.',
-                image: tejasimage,
-                linkedin: 'https://www.linkedin.com/in/tejasmahamuni/'
               }
             ].map((member, index) => (
               <div key={index} className="team-card" style={{
